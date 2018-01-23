@@ -1,0 +1,110 @@
+_id,disease,type,doctor
+5,blood pressure medication side effect,Non infectious,Dr. Michael Giuffre Ph.9898787898
+14,Acute angle closure glaucoma,Non infectious,Dr. Peter Hadden Ph.8989789789
+25,Alcoholism,Non infectious,Dr. SS Kumar Ph.7019987456
+26,Allergic reaction,Non infectious,Dr. SS Kumar Ph.7019987456
+71,Autoimmune disease,Infectious,Dr. SS Kumar Ph.7019987456
+82,Basilar artery migraine-headache,Non infectious,Dr.Ashish Kumar 9968667665
+85,small blood vessel inflammation disorder,Infectious,Dr. SS Kumar Ph.7019987456
+98,Blepharitis-eyelid swelling,Non infectious,Dr. Peter Hadden Ph.8989789789
+107,Brain tumor-cancer of the brain,Non infectious,Dr.Hemant Goyal Ph.8898889812
+136,Cavernous sinus thrombosis,Non infectious,Dr. Michael Giuffre Ph.9898787898
+144,Cerebral contusion-bruise of brain,Non infectious,Dr.Ashish Kumar 9968667665
+146,Cerebral vascular accident-stroke,Non infectious,Dr.Ashish Kumar 9968667665
+162,Cholangitis-inflammation of the bile ducts,Non infectious,Dr.Ashish Kumar 9968667665
+163,Cholecystitis-inflammation of the gallbladder,Non infectious,Dr.Ashish Kumar 9968667665
+164,Choledocholithiasis-stone in bile duct,Non infectious,Dr.Ashish Kumar 9968667665
+165,Cholelithiasis-gallstones,Non infectious,Dr.Ashish Kumar 9968667665
+172,Cirrhosis-liver failure and scarring,Non infectious,Dr.Ashish Kumar 9968667665
+186,Conjunctivitis-pink eye,Infectious,Dr. Peter Hadden Ph.8989789789
+192,Corneal abrasion-scrape on eye,Infectious,Dr. Peter Hadden Ph.8989789789
+193,Corneal foreign body-object in the eye,Non infectious,Dr. Peter Hadden Ph.8989789789
+213,Diabetes-high blood sugar,Non infectious,Dr. Michael Giuffre Ph.9898787898
+214,Diabetes mellitus type 2-elevated blood sugar,Non infectious,Dr. Michael Giuffre Ph.9898787898
+300,Foreign body in the eye,Non infectious,Dr. Peter Hadden Ph.8989789789
+319,Glaucoma-elevated eye pressure,Non infectious,Dr. Peter Hadden Ph.8989789789
+330,Head trauma,Contagious,Dr.Hemant Goyal Ph.8898889812
+347,Hepatitis-liver inflammation,Contagious,Dr.Hemant Goyal Ph.8898889812
+358,Hordeolum-stye of eye,Contagious,Dr. Peter Hadden Ph.8989789789
+370,Hyphema traumatic blood in eye,Infectious,Dr. Peter Hadden Ph.8989789789
+405,Keratitis inflammation of cornea,Infectious,Dr. Peter Hadden Ph.8989789789
+424,Leukemia blood cell cancer,Non infectious,Dr. Michael Giuffre Ph.9898787898
+447,Malaria mosquito transmitted illness,Contagious,Dr. SS Kumar Ph.7019987456
+454,Maxillary sinus carcinoma-sinus cancer,Non infectious,Dr.Hemant Goyal Ph.8898889812
+468,Methyl alcohol intoxication-methanol,Non infectious,Dr.Ashish Kumar 9968667665
+469,Migraine-type of headache,Non infectious,Dr.Ashish Kumar 9968667665
+483,Multiple sclerosis-MS,Infectious,Dr.Ashish Kumar 9968667665
+508,Nasopharyngeal carcinoma-tumor,Non infectious,Dr.Hemant Goyal Ph.8898889812
+523,Ophthalmoplegia-eye muscle weakness,Non infectious,Dr. Peter Hadden Ph.8989789789
+524,Optic neuritis-optic nerve inflammation,Infectious,Dr. Peter Hadden Ph.8989789789
+527,Orbital cellulitis-soft tissue eye infection,Infectious,Dr. Peter Hadden Ph.8989789789
+528,Orbital fracture-broken bone near the eye,Infectious,Dr. Peter Hadden Ph.8989789789
+529,Orbital mass-growth near the eye,Infectious,Dr. Peter Hadden Ph.8989789789
+545,Pancreatic cancer-tumor,Non infectious,Dr. Peter Hadden Ph.8989789789
+563,Periorbital cellulitis-infection around eye,Infectious,Dr. Peter Hadden Ph.8989789789
+576,Pituitary tumor,Non infectious,Dr.Hemant Goyal Ph.8898889812
+606,Primary sclerosing cholangitis,Infectious,Dr.Ashish Kumar 9968667665
+638,Quaternary syphilis-late stage syphilis,Infectious,Dr.Ashish Kumar 9968667665
+641,Increased pressure in the skull,Non infectious,Dr.Ashish Kumar 9968667665
+679,Sclerosing cholangitis,Infectious,Dr.Ashish Kumar 9968667665
+704,Sinusitis-sinus infection,Infectious,Dr. Peter Hadden Ph.8989789789
+728,Steven Johnson syndrome,Infectious,Dr. SS Kumar Ph.7019987456
+743,Syphilis-treponema pallidum,Infectious,Dr. SS Kumar Ph.7019987456
+748,Temporal arteritis-inflamed scalp artery,Infectious,Dr. SS Kumar Ph.7019987456
+756,disorder of eye movement,Infectious,Dr. Peter Hadden Ph.8989789789
+774,Toxoplasmosis-parasite infection,Infectious,Dr. SS Kumar Ph.7019987456
+775,Transient ischemic attack-TIA,Non infectious,Dr.Hemant Goyal Ph.8898889812
+777,Trauma,Non infectious,Dr.Hemant Goyal Ph.8898889812
+799,"Uveitis-iritis, eye inflammation",Infectious,Dr. Peter Hadden Ph.8989789789
+814,inadequate blood flow to the back of the brain,Non infectious,Dr.Ashish Kumar 9968667665
+829,"Warfarin-Coumadin, Jantoven overdose",Non infectious,Dr.Ashish Kumar 9968667665
+848,Seizure-abnormal brain electrical activity,Non infectious,Dr.Hemant Goyal Ph.8898889812
+852,Lymphoma-lymph node cancer,Non infectious,Dr.Hemant Goyal Ph.8898889812
+867,Carotid artery stenosis-neck artery narrowing,Non infectious,Dr. SS Kumar Ph.7019987456
+870,Hydrocephalus-brain fluid build-up,Non infectious,Dr.Ashish Kumar 9968667665
+873,Cerebral aneurysm-brain artery dilation,Non infectious,Dr.Ashish Kumar 9968667665
+874,Pseudotumor cerebri,Non infectious,Dr.Ashish Kumar 9968667665
+879,Allergic conjunctivitis,Non infectious,Dr. Peter Hadden Ph.8989789789
+895,Hemochromatosis,Non infectious,Dr.Ashish Kumar 9968667665
+903,Wilsons disease,Non infectious,Dr.Ashish Kumar 9968667665
+918,Rubella-German measles,Infectious,Dr.Ashish Kumar 9968667665
+926,Subconjunctival hemorrhage,Non infectious,Dr.Ashish Kumar 9968667665
+951,Q fever-flu-like bacterial illness,Infectious,Dr. SS Kumar Ph.7019987456
+992,overproduction of thyroid hormone,Infectious,Dr. SS Kumar Ph.7019987456
+1001,"Angioedema-swelling of skin, lips, eyes",Non infectious,Dr. Peter Hadden Ph.8989789789
+1003,Detached retina-retinal detachment,Non infectious,Dr. Peter Hadden Ph.8989789789
+1004,Posterior vitreous detachment,Non infectious,Dr. Peter Hadden Ph.8989789789
+1022,Cataracts-clouding of the eye lens,Non infectious,Dr. Peter Hadden Ph.8989789789
+1026,red blood cell destruction disorder,Infectious,Dr. SS Kumar Ph.7019987456
+1027,Pterygium-growth on the eye,Non infectious,Dr. Peter Hadden Ph.8989789789
+1052,Momentary vision loss in one eye,Non infectious,Dr. Peter Hadden Ph.8989789789
+1081,Gilbert's disease-liver abnormality,Non infectious,Dr. SS Kumar Ph.7019987456
+1083,Newborn jaundice,Non infectious,Dr. SS Kumar Ph.7019987456
+1102,Macular degeneration-chronic eye disease,Non infectious,Dr. Peter Hadden Ph.8989789789
+1108,Diabetic retinopathy-diabetic eye disease,Non infectious,Dr. Peter Hadden Ph.8989789789
+1134,Miller Fisher Syndrome-rare nerve disease,Non infectious,Dr.Ashish Kumar 9968667665
+1136,Complex migraine,Non infectious,Dr.Ashish Kumar 9968667665
+1249,Scleritis-inflammation of the eye,Infectious,Dr. Peter Hadden Ph.8989789789
+1255,Focal seizure-partial seizure,Non infectious,Dr. Peter Hadden Ph.8989789789
+1267,Gallbladder cancer,Non infectious,Dr.Hemant Goyal Ph.8898889812
+1283,Farsightedness-hyperopia/hypermetropia,Non infectious,Dr.Hemant Goyal Ph.8898889812
+1295,Gallbladder and bile duct cancer,Non infectious,Dr. Peter Hadden Ph.8989789789
+1299,Graves -eye disease,Infectious,Dr. Peter Hadden Ph.8989789789
+1303,Hemorrhagic stroke CVA,Non infectious,Dr.Ashish Kumar 9968667665
+1305,Hepatitis A,Infectious,Dr.Ashish Kumar 9968667665
+1315,Lacunar stroke,Non infectious,Dr.Ashish Kumar 9968667665
+1349,Presbyopia aging vision,Non infectious,Dr. Peter Hadden Ph.8989789789
+1353,Retinitis pigmentosa,Infectious,Dr.Ashish Kumar 9968667665
+1355,Retinoblastoma pediatric eye cancer,Non infectious,Dr.Hemant Goyal Ph.8898889812
+1357,Retrobulbar Neuritis,Infectious,Dr.Ashish Kumar 9968667665
+1363,Takayasu's arteritis ,Infectious,Dr.Ashish Kumar 9968667665
+1365,Tay-Sachs disease,Non infectious,Dr.Ashish Kumar 9968667665
+1367,Tear duct infection Dacryocystitis,Infectious,Dr.Ashish Kumar 9968667665
+1395,Conversion disorder,Non infectious,Dr.Ashish Kumar 9968667665
+1397,Strabismus crossed eyes,Non infectious,Dr. Peter Hadden Ph.8989789789
+1461,Turner syndrome gonadal dysgenesis,Non infectious,Dr. Peter Hadden Ph.8989789789
+1473,Retinopathy,Infectious,Dr. Peter Hadden Ph.8989789789
+1475,Corneal ulcer,Non infectious,Dr. Peter Hadden Ph.8989789789
+1479,Blocked tear duct dacryostenosis,Non infectious,Dr. Peter Hadden Ph.8989789789
+1483,Aphakia,Non infectious,Dr. Peter Hadden Ph.8989789789
+1511,Night blindness nyctalopia,Non infectious,Dr. Peter Hadden Ph.8989789789
